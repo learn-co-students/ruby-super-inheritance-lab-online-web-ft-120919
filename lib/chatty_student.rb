@@ -1,6 +1,6 @@
 
 
-class Chatty_Student < Student 
+class ChattyStudent < Student 
   
   attr_accessor :chatty_student 
   
